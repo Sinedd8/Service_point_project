@@ -45,15 +45,6 @@ The city has 35 existing service points, leading to high operating and routing c
 
 ---
 
-## 📁 Files
-
-- `notebooks/` — ML and optimization notebooks (Python)
-- `visuals/` — key charts and map snapshots
-- `final_report_summary.md` — 1-pager executive summary
-- `data/` — dummy sample (no real data uploaded for confidentiality)
-
----
-
 ## ⚙️ Technologies Used
 
 - Python, XGBoost
